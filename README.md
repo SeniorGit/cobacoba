@@ -2,8 +2,9 @@
 ![Project Logo](Profile.png)
 # EfficientNet for Image Classification: Usage Guide
 1. Download [trained model](trained_model.zip).
-2. Download [proses_image](proses_image.py).
-3. Use [TestingDataset]().
+2. Download [Process](Process.ipynb).
+3. You can use this image for testing. [TestingDataset](Testing.zip).
+   ![Project Logo](result.png)
 # Dataset 
 Datasets we use [PlantVillage Dataset](https://data.mendeley.com/datasets/tywbtsjrjv/1).
 Article [EfficientNetV2](https://arxiv.org/pdf/2104.00298).
