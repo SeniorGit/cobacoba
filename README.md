@@ -4,7 +4,7 @@
 1. Download [trained model](trained_model.zip).
 2. Download [Process](Process.ipynb).
 3. You can use this image for testing. [TestingDataset](Testing.zip).
-   ![Project Logo](result.png)
+![Project Logo](result.png)
 # Dataset 
 Datasets we use [PlantVillage Dataset](https://data.mendeley.com/datasets/tywbtsjrjv/1).
 Article [EfficientNetV2](https://arxiv.org/pdf/2104.00298).
